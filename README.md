@@ -1,6 +1,6 @@
 ### Hi there 👋
-😄 (He/Him)
-🎓 Computer Science - Telkom University
+##### 😄 (He/Him)
+##### 🎓 Computer Science - Telkom University
 
 
 <!--

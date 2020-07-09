@@ -1,7 +1,4 @@
 ### Hi there 👋
-##### 😄 (He/Him)
-##### 🎓 Computer Science - Telkom University
-
 
 <!--
 **ahsanatha/ahsanatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

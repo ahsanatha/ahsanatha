@@ -1,6 +1,6 @@
 ### Hello humans 👋
 
-- 🔭 I’m currently working on my final bachelor project on review spam detection
+- 🔭 I’m currently working on my final undergrad project on review spam detection
 - 👯 I’m looking to collaborate on bulding end-to-end machine-learning-powered platform
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ahsanatha/), [Instagram](https://www.instagram.com/ahsanatha/), [ahsanatha10@gmail.com](mailto:ahsanatha10@gmail.com)
 

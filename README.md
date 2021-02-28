@@ -1,7 +1,7 @@
 ### Hello humans 👋
 
 - 🔭 I’m currently working on my final undergrad project on review spam detection in indonesian language
-- 👯 I’m looking to collaborate on bulding end-to-end machine-learning-powered platform
+- 👯 I’m looking to collaborate on bulding machine-learning-powered platform
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ahsanatha/), [ahsanatha10@gmail.com](mailto:ahsanatha10@gmail.com)
 
 <!--

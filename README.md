@@ -1,9 +1,8 @@
 ### Hello humans 👋
 
-- 🔭 I’m currently working on my final undergrad project on review spam detection in indonesian language
-- 👯 I’m looking to collaborate on bulding machine-learning-powered platform
+- 🔭 I’m currently working on my final undergrad project 
 - 🌱 I’m currently learning programming
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ahsanatha/), [ahsanatha10@gmail.com](mailto:ahsanatha10@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ahsanatha/)
 
 <!--
 **ahsanatha/ahsanatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

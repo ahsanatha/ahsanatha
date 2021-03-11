@@ -1,8 +1,4 @@
-### Hello humans 👋
-
-- 🔭 I’m currently working on my final undergrad project 
-- 🌱 I’m currently learning programming
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ahsanatha/)
+Hello humans 👋
 
 <!--
 **ahsanatha/ahsanatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,24 +1,36 @@
-# Muhammad Ahsan Athallah
+# hi, i'm ahsan 👋
 
-Software engineer, mainly backend — 5+ years of experience at one of Southeast Asia's biggest ecommerce companies.
+i build things that move data around and try to teach machines to be useful.
 
-Distributed systems and applied AI/ML. Jakarta, Indonesia.
+mostly go, sometimes python. based in jakarta, originally from bandung. currently working on [rekursa](https://rekursa.id) — data and AI agent infrastructure for Southeast Asia.
 
----
+## what i care about
 
-## Background
+- **distributed systems that don't wake me up at 3am** — go microservices, multi-region, tail-latency SLOs
+- **applied ML** — LLM/RAG, NLP, retrieval optimization, the kind of stuff that ships
+- **indonesian tech** — small but scrappy, catching up fast. APICTA finalist 2019, 1st-author IEEE paper on indonesian spam detection
 
-- **Current focus** — Cross-platform affiliate integration linking two major SEA ecommerce ecosystems, serving hundreds of thousands of creators. Platform ownership of a fleet of Go microservices sustaining high QPS, multi-region, with tight tail-latency SLOs. Shipped a loyalty and gamification platform end-to-end from ambiguous goal.
-- **Earlier** — Seller Analytics platform; LLM/RAG seller-onboarding engine with major ops ticket reduction; GBM fraud classifier with validated monthly fraud loss prevention; p99 latency reduced several-fold across seller-affiliate services.
-- **Stack** — Go (primary, 5+ yrs), Python, PostgreSQL, Redis, Elasticsearch, NSQ, gRPC, GCP, Kubernetes.
-- **Applied AI/ML** — LLM/RAG, prompt engineering, retrieval optimization, production ML, applied NLP. IEEE 1st-author publication on Indonesian spam detection; APICTA finalist 2019.
-- **Education** — [Master of Information Technology](https://cs.ui.ac.id/magister-teknologi-informasi/) (enterprise IT focus), University of Indonesia. [Bachelor of Informatics](https://bif.telkomuniversity.ac.id/) (AI focus), Telkom University.
+## things i've built
 
-## Currently building
+some of it is open source, some of it is for work, all of it taught me something:
 
-[Rekursa](https://rekursa.id) — data and AI agent infrastructure for Southeast Asia.
+- **[sapu](https://github.com/ahsanatha/sapu)** — sweep articles off the web. stealth puppeteer scraper with multi-site scheduling
+- **[knowledgestream](https://github.com/ahsanatha/knowledgestream)** — which wikipedia page is the most controversial *right now*? answered in real time via SSE → scoring → websocket
+- **[career-ops](https://github.com/ahsanatha/career-ops)** — AI-powered job search system, 14 skill modes, built while job hunting
+- **[travel-concierge](https://github.com/ahsanatha/travel-concierge)** — the travel agent i always wanted
+- **[octo](https://github.com/ahsanatha/octo)** — clerk wannabe but make it asian. auth infra
+- **[nata](https://github.com/ahsanatha/nata)** — agent loop: LLM runners, providers, sidecar scripts
+- **[poke](https://github.com/ahsanatha/poke)**, **[gite](https://github.com/ahsanatha/gite)**, **[nosql-metadata](https://github.com/ahsanatha/nosql-metadata)** — smaller experiments
 
-## GitHub
+## background
+
+5+ years at one of SEA's biggest ecommerce companies. did backend at scale — go microservices sustaining high QPS, multi-region deploys, the kind of load where p99 matters.
+
+shipped a loyalty and gamification platform end-to-end from an ambiguous goal. built an LLM/RAG seller-onboarding engine that cut ops tickets. trained a GBM fraud classifier that prevented monthly losses. reduced p99 latency several-fold across seller-affiliate services.
+
+**education** — master's in IT from [University of Indonesia](https://cs.ui.ac.id/magister-teknologi-informasi/) (enterprise focus), bachelor's in informatics from [Telkom University](https://bif.telkomuniversity.ac.id/) (AI focus).
+
+## github
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahsanatha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -31,8 +43,8 @@ Distributed systems and applied AI/ML. Jakarta, Indonesia.
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ahsanatha&theme=tokyonight&hide_border=true" />
 </a>
 
-## Connect
+## find me
 
-- Site: [ahsanatha.com](https://ahsanatha.com)
-- LinkedIn: [ahsanatha](https://www.linkedin.com/in/ahsanatha/)
-- Email: ahsanatha10@gmail.com
+- site — [ahsanatha.com](https://ahsanatha.com)
+- linkedin — [ahsanatha](https://www.linkedin.com/in/ahsanatha/)
+- email — ahsanatha10@gmail.com

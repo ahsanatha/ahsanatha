@@ -4,6 +4,13 @@ i build things that move data around and try to teach machines to be useful.
 
 mostly go, sometimes python. based in jakarta. currently working on [rekursa](https://rekursa.id) — data and AI agent infrastructure for Southeast Asia.
 
+## now
+
+- 🌏 jakarta, WIB (UTC+7)
+- 🛠️ shipping — nata's agent loop + a few experiments i can't talk about yet
+- 📖 reading — *Designing Data-Intensive Applications* (re-read, this time slower)
+- 🌱 learning — rust, properly this time
+
 ## what i care about
 
 - **distributed systems that don't wake me up at 3am** — go microservices, multi-region, tail-latency SLOs

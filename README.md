@@ -8,8 +8,8 @@ Distributed systems and applied AI/ML. Jakarta, Indonesia.
 
 ## Background
 
-- **Current focus** — Cross-platform affiliate integration linking two major SEA ecommerce ecosystems, serving 500K+ creators. Platform ownership of 7+ Go microservices at 20K+ QPS, multi-region, p99 <100ms. Shipped a loyalty and gamification platform end-to-end from ambiguous goal.
-- **Earlier** — Seller Analytics platform; LLM/RAG seller-onboarding engine (**70% ops ticket reduction**); GBM fraud classifier (**$10K+/month prevented**); p99 latency 800ms → 200ms across seller-affiliate services.
+- **Current focus** — Cross-platform affiliate integration linking two major SEA ecommerce ecosystems, serving hundreds of thousands of creators. Platform ownership of a fleet of Go microservices sustaining high QPS, multi-region, with tight tail-latency SLOs. Shipped a loyalty and gamification platform end-to-end from ambiguous goal.
+- **Earlier** — Seller Analytics platform; LLM/RAG seller-onboarding engine with major ops ticket reduction; GBM fraud classifier with validated monthly fraud loss prevention; p99 latency reduced several-fold across seller-affiliate services.
 - **Stack** — Go (primary, 5+ yrs), Python, PostgreSQL, Redis, Cassandra, Elasticsearch, NSQ, gRPC, GCP.
 - **Applied AI/ML** — LLM/RAG, prompt engineering, retrieval optimization, production ML, applied NLP. IEEE 1st-author publication on Indonesian spam detection; APICTA finalist.
 - **Education** — [Master of Information Technology](https://cs.ui.ac.id/magister-teknologi-informasi/) (enterprise IT focus), University of Indonesia. [Bachelor of Informatics](https://bif.telkomuniversity.ac.id/) (AI focus), Telkom University.

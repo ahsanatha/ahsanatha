@@ -2,7 +2,7 @@
 
 i build things that move data around and try to teach machines to be useful.
 
-mostly go, sometimes python. based in jakarta, originally from bandung. currently working on [rekursa](https://rekursa.id) — data and AI agent infrastructure for Southeast Asia.
+mostly go, sometimes python. based in jakarta. currently working on [rekursa](https://rekursa.id) — data and AI agent infrastructure for Southeast Asia.
 
 ## what i care about
 
@@ -16,11 +16,9 @@ some of it is open source, some of it is for work, all of it taught me something
 
 - **[sapu](https://github.com/ahsanatha/sapu)** — sweep articles off the web. stealth puppeteer scraper with multi-site scheduling
 - **[knowledgestream](https://github.com/ahsanatha/knowledgestream)** — which wikipedia page is the most controversial *right now*? answered in real time via SSE → scoring → websocket
-- **[career-ops](https://github.com/ahsanatha/career-ops)** — AI-powered job search system, 14 skill modes, built while job hunting
 - **[travel-concierge](https://github.com/ahsanatha/travel-concierge)** — the travel agent i always wanted
 - **[octo](https://github.com/ahsanatha/octo)** — clerk wannabe but make it asian. auth infra
 - **[nata](https://github.com/ahsanatha/nata)** — agent loop: LLM runners, providers, sidecar scripts
-- **[poke](https://github.com/ahsanatha/poke)**, **[gite](https://github.com/ahsanatha/gite)**, **[nosql-metadata](https://github.com/ahsanatha/nosql-metadata)** — smaller experiments
 
 ## background
 

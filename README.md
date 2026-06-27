@@ -28,16 +28,19 @@ built an LLM/RAG seller-onboarding engine that cut ops tickets. trained GBM and 
 
 ## github
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahsanatha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</a>
+```
+33 alive repos · 48 archived · 34 public · 47 private
+mostly go · sometimes python · dabbles in ts
+```
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanatha&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ahsanatha&theme=tokyonight&hide_border=true" />
-</a>
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-k8s-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 
 ## find me
 

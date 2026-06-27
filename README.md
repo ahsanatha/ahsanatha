@@ -17,14 +17,12 @@ some of it is open source, some of it is for work, all of it taught me something
 - **[sapu](https://github.com/ahsanatha/sapu)** — sweep articles off the web. stealth puppeteer scraper with multi-site scheduling
 - **[knowledgestream](https://github.com/ahsanatha/knowledgestream)** — which wikipedia page is the most controversial *right now*? answered in real time via SSE → scoring → websocket
 - **[travel-concierge](https://github.com/ahsanatha/travel-concierge)** — the travel agent i always wanted
-- **[octo](https://github.com/ahsanatha/octo)** — clerk wannabe but make it asian. auth infra
-- **[nata](https://github.com/ahsanatha/nata)** — agent loop: LLM runners, providers, sidecar scripts
 
 ## background
 
 5+ years at one of SEA's biggest ecommerce companies. did backend at scale — go microservices sustaining high QPS, multi-region deploys, the kind of load where p99 matters.
 
-shipped a loyalty and gamification platform end-to-end from an ambiguous goal. built an LLM/RAG seller-onboarding engine that cut ops tickets. trained a GBM fraud classifier that prevented monthly losses. reduced p99 latency several-fold across seller-affiliate services.
+built an LLM/RAG seller-onboarding engine that cut ops tickets. trained a GBM fraud classifier that prevented monthly losses. reduced p99 latency several-fold across seller-affiliate services.
 
 **education** — master's in IT from [University of Indonesia](https://cs.ui.ac.id/magister-teknologi-informasi/) (enterprise focus), bachelor's in informatics from [Telkom University](https://bif.telkomuniversity.ac.id/) (AI focus).
 

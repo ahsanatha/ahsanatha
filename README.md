@@ -12,7 +12,7 @@ Distributed systems and applied AI/ML. Jakarta, Indonesia.
 - **Earlier** — Seller Analytics platform; LLM/RAG seller-onboarding engine (**70% ops ticket reduction**); GBM fraud classifier (**$10K+/month prevented**); p99 latency 800ms → 200ms across seller-affiliate services.
 - **Stack** — Go (primary, 5+ yrs), Python, PostgreSQL, Redis, Cassandra, Elasticsearch, NSQ, gRPC, GCP.
 - **Applied AI/ML** — LLM/RAG, prompt engineering, retrieval optimization, production ML, applied NLP. IEEE 1st-author publication on Indonesian spam detection; APICTA finalist.
-- **Education** — [MTI](https://cs.ui.ac.id/magister-teknologi-informasi/), University of Indonesia. BSc Informatics (AI focus), Telkom University.
+- **Education** — [MTI](https://cs.ui.ac.id/magister-teknologi-informasi/) (enterprise IT focus), University of Indonesia. BSc Informatics (AI focus), Telkom University.
 
 ## Currently building
 
